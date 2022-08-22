@@ -1,6 +1,5 @@
 - 👋 Hello! Beautiful humans out there,
 - 😊 I’m @dishavyas
-- 👀 I’m interested in coding and website development
-- 🌱 I’m currently learning JAVA
+- 👀 Coding is my hobby!!
+- 🌱 I,m intern of MERN stack developer.
 - 📫 you can connect through mail my mail address is dishavyas263@gmail.com
-
